@@ -55,3 +55,5 @@ python manage.py migrate <app_name>
 python manage.py createsuperuser
 
 pa_autoconfigure_django.py --python=3.8 https://github.com/<your-github-username>/<your-github-repository>.git
+
+python manage.py shell
